@@ -1,0 +1,6 @@
+{
+	"ServerName":"测试",
+	"ServerPort":"21",
+	"PublicIP":"192.168.0.243",
+	"FtpPath":"ftppath"
+}
